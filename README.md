@@ -2,7 +2,7 @@
 
 I'm **Carlos**, a software engineer | data engineer who is enthusiastic about distributed systems, event driven architecture and NoSQL databases.
 
-In the last seven months I took a break from my tech career to become a full-time entrepreneur as CEO of the company that my wife started one year prior. After seven months of hard work, two new product launches, a complete reorganization of the company management and a lot of learning, I've decided to go back to my career in tech.
+In the last eight months I took a break from my tech career to become a full-time entrepreneur as CEO of the company that my wife started one year prior. After seven months of hard work, two new product launches, a complete reorganization of the company management and a lot of learning, I've decided to go back to my career in tech.
 
 <!--
 **carlos-medina/carlos-medina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
